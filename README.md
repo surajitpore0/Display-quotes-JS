@@ -1,6 +1,6 @@
 # Display Quotes ✌️
 
-### Check it out [here](https://surajitpore0.github.io/testimonials/)
+### Check it out [here](https://surajitpore0.github.io/Display-quotes-JS/)
 
 <img src = "https://forthebadge.com/images/badges/made-with-javascript.svg">
 
